@@ -1,0 +1,15 @@
+C:\Users\ls139\Desktop\listas de lógica\exfgts\bin\Debug\net9.0\exfgts.exe
+C:\Users\ls139\Desktop\listas de lógica\exfgts\bin\Debug\net9.0\exfgts.deps.json
+C:\Users\ls139\Desktop\listas de lógica\exfgts\bin\Debug\net9.0\exfgts.runtimeconfig.json
+C:\Users\ls139\Desktop\listas de lógica\exfgts\bin\Debug\net9.0\exfgts.dll
+C:\Users\ls139\Desktop\listas de lógica\exfgts\bin\Debug\net9.0\exfgts.pdb
+C:\Users\ls139\Desktop\listas de lógica\exfgts\obj\Debug\net9.0\exfgts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ls139\Desktop\listas de lógica\exfgts\obj\Debug\net9.0\exfgts.AssemblyInfoInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\exfgts\obj\Debug\net9.0\exfgts.AssemblyInfo.cs
+C:\Users\ls139\Desktop\listas de lógica\exfgts\obj\Debug\net9.0\exfgts.csproj.CoreCompileInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\exfgts\obj\Debug\net9.0\exfgts.sourcelink.json
+C:\Users\ls139\Desktop\listas de lógica\exfgts\obj\Debug\net9.0\exfgts.dll
+C:\Users\ls139\Desktop\listas de lógica\exfgts\obj\Debug\net9.0\refint\exfgts.dll
+C:\Users\ls139\Desktop\listas de lógica\exfgts\obj\Debug\net9.0\exfgts.pdb
+C:\Users\ls139\Desktop\listas de lógica\exfgts\obj\Debug\net9.0\exfgts.genruntimeconfig.cache
+C:\Users\ls139\Desktop\listas de lógica\exfgts\obj\Debug\net9.0\ref\exfgts.dll
